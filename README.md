@@ -34,8 +34,11 @@ MRI Modalities: Visualizations of FLAIR, T1, T1CE, T2 slices.
 Segmentation Mask: Corresponding annotated regions.
 
 Data Split:
+
 Training: 70%
+
 Validation: 15%
+
 Testing: 15%
 
 **Model Architecture**
